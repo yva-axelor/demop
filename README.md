@@ -8,4 +8,4 @@ hello
 
 #Local development
 
-1.open index.html in your brower.and see what happens.
+1.hello please open index.html in browser
